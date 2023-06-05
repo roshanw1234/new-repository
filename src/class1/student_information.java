@@ -12,6 +12,8 @@ public class student_information {
 		String address="pune";
 		String school_name="english high school";
 		boolean result= true;
+		char i='a';
+		
 		
 		
 		
