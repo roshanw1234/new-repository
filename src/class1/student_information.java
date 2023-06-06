@@ -17,6 +17,7 @@ public class student_information {
 		
 		
 		
+		
 		System.out.println(name);
 		System.out.println(rollno);
 		System.out.println(percentage + "%");
@@ -25,7 +26,8 @@ public class student_information {
 		System.out.println(address);
 		System.out.println(school_name);
 		System.out.println(result);
-		
+		System.out.println(result);
+		System.out.println(school_name);
 	
 	}
 }
